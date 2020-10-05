@@ -1,0 +1,11 @@
+Database:
+  DBType: mysql
+  Username: root
+  Password: 123
+  Host: cloud:3306
+  DBName: dev
+  TablePrefix: user
+  Charset: utf8
+  ParseTime: True
+  MaxIdleConns: 10
+  MaxOpenConns: 30
